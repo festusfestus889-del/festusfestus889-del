@@ -1,13 +1,16 @@
 ### Hi, I'm OGE FESTUS FESTUS 👋
+
 📍 Port Harcourt | Aspiring Data Analyst | ₦8M+ Revenue Analyzed
 
-**🔥 Featured Portfolio:** [My 4 Projects + Live Dashboard](https://github.com/festusfestus889-del/sales-analysis-portfolio)
+#### 🚀 Featured Portfolio
+**[My 4 Projects + Live Dashboard](https://github.com/festusfestus889-del/sales-analysis-portfolio)**
 
 - 📊 Looker Studio | Google Sheets | Excel | Data Storytelling
 - 📈 I turn messy data into executive decisions
 - 💼 Open to Data Analyst / Business Analyst Roles - Remote & PH
 
+---
 📧 Contact: festusfestus889@gmail.com
 💼 Indeed: Search "Oge Festus" on Indeed
-🌐 Portfolio: github.com/festusfestus889-del/sales-analysis-portfolio
+🌐 Portfolio: https://github.com/festusfestus889-del/sales-analysis-portfolio
 📍 Port Harcourt | Open to Remote
