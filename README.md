@@ -10,7 +10,7 @@
 - 💼 Open to Data Analyst / Business Analyst Roles - Remote & PH
 
 ---
-📧 Contact: festusfestus889@gmail.com
-💼 Indeed: Search "Oge Festus" on Indeed
-🌐 Portfolio: https://github.com/festusfestus889-del/sales-analysis-portfolio
+📧 Contact: festusfestus889@gmail.com<br>
+💼 Indeed: Search "Oge Festus" on Indeed<br>
+🌐 Portfolio: https://github.com/festusfestus889-del/sales-analysis-portfolio<br>
 📍 Port Harcourt | Open to Remote
