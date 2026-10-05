@@ -7,4 +7,7 @@
 - 📈 I turn messy data into executive decisions
 - 💼 Open to Data Analyst / Business Analyst Roles - Remote & PH
 
-📧 Let's connect: [LinkedIn] + [festusfestus889@gmail.com]
+📧 Contact: festusfestus889@gmail.com
+💼 Indeed: Search "Oge Festus" on Indeed
+🌐 Portfolio: github.com/festusfestus889-del/sales-analysis-portfolio
+📍 Port Harcourt | Open to Remote
